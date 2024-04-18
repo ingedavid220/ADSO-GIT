@@ -1,0 +1,3 @@
+[user]
+	email = ingedavid220@hotmail.com
+	name = GIT ADSO
